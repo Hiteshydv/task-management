@@ -34,3 +34,11 @@ Install dependencies:
 Start the application:
 	npm start
 	The Task management app will be accessible at http://localhost:3000 by default.
+
+![image](https://github.com/Hiteshydv/task-management/assets/113702779/e8902fe2-6efa-4a06-8684-d99b8166f826)
+![image](https://github.com/Hiteshydv/task-management/assets/113702779/816bc527-5ef0-4b33-851a-65c8360f87a0)
+![image](https://github.com/Hiteshydv/task-management/assets/113702779/2daa5063-8d17-4ccf-b23d-1964f6d5c118)
+
+
+
+ 
